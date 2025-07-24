@@ -1,0 +1,10 @@
+{
+  "TotalResourceGroups": 2,
+  "AppServicePlansPerRG": 2,
+  "WebAppsPerASP": 5,
+  "AppServiceSku": "B1",
+  "BaseResourceName": "webapp-small",
+  "MaxParallelJobs": 5,
+  "Sequential": false,
+  "Regions": ["eastus2", "centralindia"]
+}

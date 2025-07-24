@@ -1,0 +1,10 @@
+{
+  "TotalResourceGroups": 100,
+  "AppServicePlansPerRG": 2,
+  "WebAppsPerASP": 10,
+  "AppServiceSku": "B1",
+  "BaseResourceName": "webapp-testing",
+  "MaxParallelJobs": 10,
+  "Sequential": false,
+  "Regions": ["centralindia", "eastus2"]
+}

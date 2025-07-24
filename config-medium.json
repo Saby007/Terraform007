@@ -1,0 +1,10 @@
+{
+  "TotalResourceGroups": 50,
+  "AppServicePlansPerRG": 3,
+  "WebAppsPerASP": 8,
+  "AppServiceSku": "S1",
+  "BaseResourceName": "webapp-medium",
+  "MaxParallelJobs": 4,
+  "Sequential": false,
+  "Regions": ["centralindia", "eastus2", "westus2"]
+}
